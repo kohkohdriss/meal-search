@@ -1,5 +1,3 @@
-export default {
-  meals: ["Salmon"],
-};
+export default {};
 
 // export const meals = ["Salmon"];
